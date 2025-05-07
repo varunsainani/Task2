@@ -13,7 +13,7 @@ body {
 
 header {
   text-align: center;
-  background-color: #00796B; /* Changed from blue to teal */
+  background-color: #00796B;
   color: white;
   padding: 50px 20px;
 }
@@ -31,7 +31,7 @@ section {
 }
 
 h2 {
-  color: #00796B; /* Teal */
+  color: #00796B;
   border-bottom: 2px solid #00796B;
   margin-bottom: 20px;
   display: inline-block;
